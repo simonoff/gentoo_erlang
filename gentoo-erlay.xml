@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<layman>
+
+  <overlay
+      type = "git"
+      src  = "git://github.com/simonoff/gentoo_erlang.git"
+      contact = "alex@simonov.in.ua"
+      status  = "unofficial"
+      name = "gentoo_erlang">
+
+    <link>
+      http://github.com/simonoff/gentoo_erlang/tree/master
+    </link>
+
+    <description>
+      This overlay is meant to promote the use of erlang-language tools by making them
+      easy to compile from source and install in a customized fashion.
+    </description>
+
+  </overlay>
+</layman>

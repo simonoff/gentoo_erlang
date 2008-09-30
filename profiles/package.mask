@@ -1,0 +1,5 @@
+-www-servers/yaws
+
+# Stefan Cornelius <dercorny@gentoo.org> (2 Mar 2007)
+# Masked wrt security bug #158958
+<=www-servers/yaws-1.64
